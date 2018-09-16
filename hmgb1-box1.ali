@@ -1,0 +1,12 @@
+>P1;hmgb1
+structureX:B.pdb:1  :X: 106:X:::-1.00:-1.00
+................................-------KPRGKMSSYAFFVQTCREE.KKK.PDASVNFSEFSK
+KCSERWKTMSAKEKGKFEDMAKADKARYEREMKTY-----------...*
+>P1;cluster1
+structureX:align_cluster_0000_temp.pdb:8:A:96:A::::
+--------------------------------MGKGDPKK-----------------------------------
+----------------------------------YIPPKGETKKKF---*
+>P1;boxfull
+sequence:hmgb_box1:1   : :124  : :hmgb1:human:-1.00:-1.00
+................................MGKGDPKKPRGKMSSYAFFVQTCREEHKKKHPDASVNFSEFSK
+KCSERWKTMSAKEKGKFEDMAKADKARYEREMKTYIPPKGETKKKF...*
