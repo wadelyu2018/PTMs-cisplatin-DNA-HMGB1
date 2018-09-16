@@ -7,6 +7,6 @@ The MD trajectories were obtained from REST2 enhanced sampling (see publication 
 for details), stored in a binary format (XTC).
 These XTC files are in size of GB, please contact Wenping Lyu (wenping.lyu@rwth-aachen.de), to get access of these binary files.
 
-More details are reported in our publication on NAR:XXX
+More details are reported in our publication on NAR: XXX
 
-Any publications based on the data in this repository please kindly cite reference:XXX
+Any type of re-distribution and/or publications of or based on the data in this repository please cite our original publication on NAR: XXX
